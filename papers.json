@@ -1,0 +1,68 @@
+[
+  {
+    "id": 1,
+    "title": "The Cognitive Architecture of Distributed Intelligence: A Systems Perspective",
+    "authors": ["Dr. Maren Osei", "Prof. James Calloway"],
+    "date": "2024-11-15",
+    "category": "Cognitive Science",
+    "abstract": "This paper presents a novel framework for understanding distributed intelligence across biological and artificial systems. Drawing on network theory, cognitive neuroscience, and computational modeling, we propose a unified architecture that explains emergent intelligent behaviors in both natural and engineered environments. Our analysis of 47 case studies reveals three consistent structural motifs underlying distributed cognition.",
+    "tags": ["cognition", "distributed systems", "AI", "neuroscience"],
+    "pdfUrl": "#",
+    "pages": 28
+  },
+  {
+    "id": 2,
+    "title": "Urban Heat Islands and Green Infrastructure: Longitudinal Evidence from 12 Cities",
+    "authors": ["Dr. Priya Nair", "Dr. Tobias Henkel", "Amara Diallo, MSc"],
+    "date": "2024-10-02",
+    "category": "Environmental Science",
+    "abstract": "We examine the thermal mitigation potential of green infrastructure investments across twelve metropolitan areas over a 15-year period. Satellite thermal imaging combined with ground-level sensor networks reveals that strategic tree canopy expansion reduces peak summer temperatures by 1.8–4.3°C in high-density urban zones. Policy implications for climate-adaptive city planning are discussed.",
+    "tags": ["urban planning", "climate", "green infrastructure", "heat islands"],
+    "pdfUrl": "#",
+    "pages": 42
+  },
+  {
+    "id": 3,
+    "title": "Microbiome Variability in Fermented Foods: A Cross-Cultural Genomic Study",
+    "authors": ["Dr. Yuki Tanaka", "Prof. Elena Vasquez"],
+    "date": "2024-09-18",
+    "category": "Microbiology",
+    "abstract": "Fermented foods represent one of humanity's oldest biotechnologies, yet their microbial diversity remains poorly characterized across cultures. Using whole-metagenome sequencing of 380 samples from 22 countries, we identify 1,240 distinct microbial taxa with significant geographic clustering. Our findings challenge the assumption of universal starter culture dominance and highlight the role of local environmental microbiota.",
+    "tags": ["microbiome", "genomics", "food science", "fermentation"],
+    "pdfUrl": "#",
+    "pages": 35
+  },
+  {
+    "id": 4,
+    "title": "Economic Precarity and Political Radicalization: Causal Evidence from Panel Data",
+    "authors": ["Prof. Samuel Okafor", "Dr. Lena Brauer"],
+    "date": "2024-08-05",
+    "category": "Political Economy",
+    "abstract": "Using a two-decade panel dataset spanning 38 democracies, we isolate the causal effect of income volatility on support for anti-establishment political movements. Instrumental variable estimates suggest that a one standard deviation increase in household income variance raises the probability of voting for radical parties by 6.2 percentage points. Mechanisms through perceived institutional failure are explored.",
+    "tags": ["political economy", "radicalization", "inequality", "democracy"],
+    "pdfUrl": "#",
+    "pages": 51
+  },
+  {
+    "id": 5,
+    "title": "Photonic Memory Devices: Sub-Nanosecond Switching in Chalcogenide Thin Films",
+    "authors": ["Dr. Ravi Shankar", "Dr. Ingrid Moller", "Prof. Chen Wei"],
+    "date": "2024-07-22",
+    "category": "Materials Science",
+    "abstract": "We report a novel photonic memory architecture based on amorphous-to-crystalline phase transitions in germanium-antimony-telluride thin films. Using femtosecond laser pulses, we achieve reliable switching at 800 picoseconds with a retention time exceeding 10 years at room temperature. Bit error rates below 10^-12 position this technology as a candidate for next-generation optical computing.",
+    "tags": ["photonics", "materials science", "memory", "optical computing"],
+    "pdfUrl": "#",
+    "pages": 19
+  },
+  {
+    "id": 6,
+    "title": "Narrative Identity and Resilience in Displaced Populations: A Qualitative Analysis",
+    "authors": ["Dr. Fatima Al-Rashidi"],
+    "date": "2024-06-30",
+    "category": "Psychology",
+    "abstract": "This study examines how displaced individuals construct narrative identity as a resilience mechanism following forced migration. Through 94 in-depth interviews conducted across refugee settlement communities in three countries, we identify five core narrative strategies that predict long-term psychological adaptation. Findings inform trauma-informed approaches to resettlement support programs.",
+    "tags": ["psychology", "resilience", "migration", "narrative identity"],
+    "pdfUrl": "#",
+    "pages": 33
+  }
+]
